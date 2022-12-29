@@ -223,7 +223,7 @@ nav ul li a{
     padding: 14px;
     margin: 45px 0px;
     border: none;
-    height: 497px;
+    height: auto;
 }
 .payment:hover{
     box-shadow: 5px 5px 10px 0px blue;
@@ -271,6 +271,7 @@ nav ul li a{
     text-align: center;
     padding: 16px;
     width: 378px;
+    margin-bottom:115px;
 }
 
 
